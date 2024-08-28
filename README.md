@@ -22,7 +22,7 @@ Before you begin, ensure you have the following installed:
 
     ```bash
     git clone https://github.com/erfunit/python-youtube-downloader.git
-    cd youtube-downloader
+    cd python-youtube-downloader
     ```
 
 2. **Install the required packages:**
